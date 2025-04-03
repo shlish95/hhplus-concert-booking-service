@@ -1,7 +1,11 @@
 # 콘서트 예약 서비스
 
+<br>
+
 ## 마일스톤
 - [Github 마일스톤 링크](https://github.com/users/shlish95/projects/1/views/1)
+
+<br>
 
 ## API별 시퀀스 다이어그램
 <details>
@@ -39,11 +43,13 @@
 
 </details>
 
+<br>
+
 ## Entity - Relationship Diagram
 
 ![ERD](ERD.png)
 
-
+<br>
 
 ## Getting Started
 
