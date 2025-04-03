@@ -11,7 +11,7 @@
 <details>
 <summary>유저 토큰 발급 API</summary>
 
-![시퀀스 다이어그램](sequence_diagram/user_token_api.png)
+![시퀀스 다이어그램](.sequence_diagram/user_token_api.png)
 
 </details>
 
