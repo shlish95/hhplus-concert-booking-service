@@ -9,37 +9,37 @@
 
 ## API별 시퀀스 다이어그램
 <details>
-<summary>결제 API</summary>
+<summary>유저 토큰 발급 API</summary>
 
-![시퀀스 다이어그램](sequence_diagram/유저 토큰 발급 API.drawio.png)
+![시퀀스 다이어그램](sequence_diagram/user_token_api.png)
+
+</details>
+
+<details>
+<summary>잔액 충전 및 조회 API</summary>
+
+![시퀀스 다이어그램](sequence_diagram/balance_check_and_recharge_api.png)
+
+</details>
+
+<details>
+<summary>예약 가능 날짜 및 좌석 조회 API</summary>
+
+![시퀀스 다이어그램](sequence_diagram/available_dates_and_seats_api.png)
+
+</details>
+
+<details>
+<summary>좌석 예약 요청 API</summary>
+
+![시퀀스 다이어그램](sequence_diagram/seat_reservation_request_api.png)
 
 </details>
 
 <details>
 <summary>결제 API</summary>
 
-![시퀀스 다이어그램](sequence_diagram/잔액 충전 및 조회 API.drawio.png)
-
-</details>
-
-<details>
-<summary>결제 API</summary>
-
-![시퀀스 다이어그램](sequence_diagram/예약 가능 날짜 및 좌석 조회 API.drawio.png)
-
-</details>
-
-<details>
-<summary>결제 API</summary>
-
-![시퀀스 다이어그램](sequence_diagram/결제 API.drawio.png)
-
-</details>
-
-<details>
-<summary>결제 API</summary>
-
-![시퀀스 다이어그램](sequence_diagram/좌석 예약 요청 API.drawio.png)
+![시퀀스 다이어그램](sequence_diagram/payment_api.png)
 
 </details>
 
