@@ -9,21 +9,21 @@
 
 ## API별 시퀀스 다이어그램
 <details>
-<summary>결제 API</summary>
+<summary>유저 토큰 발급 API</summary>
 
 ![시퀀스 다이어그램](sequence_diagram/유저 토큰 발급 API.drawio.png)
 
 </details>
 
 <details>
-<summary>결제 API</summary>
+<summary>잔액 충전 및 조회 API</summary>
 
 ![시퀀스 다이어그램](sequence_diagram/잔액 충전 및 조회 API.drawio.png)
 
 </details>
 
 <details>
-<summary>결제 API</summary>
+<summary>예약 가능 날짜 및 좌석 조회 API</summary>
 
 ![시퀀스 다이어그램](sequence_diagram/예약 가능 날짜 및 좌석 조회 API.drawio.png)
 
