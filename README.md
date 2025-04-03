@@ -1,4 +1,49 @@
-## 프로젝트
+# 콘서트 예약 서비스
+
+## 마일스톤
+- [Github 마일스톤 링크](https://github.com/users/shlish95/projects/1/views/1)
+
+## API별 시퀀스 다이어그램
+<details>
+<summary>결제 API</summary>
+
+![시퀀스 다이어그램](sequence_diagram/유저 토큰 발급 API.drawio.png)
+
+</details>
+
+<details>
+<summary>결제 API</summary>
+
+![시퀀스 다이어그램](sequence_diagram/잔액 충전 및 조회 API.drawio.png)
+
+</details>
+
+<details>
+<summary>결제 API</summary>
+
+![시퀀스 다이어그램](sequence_diagram/예약 가능 날짜 및 좌석 조회 API.drawio.png)
+
+</details>
+
+<details>
+<summary>결제 API</summary>
+
+![시퀀스 다이어그램](sequence_diagram/결제 API.drawio.png)
+
+</details>
+
+<details>
+<summary>결제 API</summary>
+
+![시퀀스 다이어그램](sequence_diagram/좌석 예약 요청 API.drawio.png)
+
+</details>
+
+## Entity - Relationship Diagram
+
+![ERD](ERD.png)
+
+
 
 ## Getting Started
 
